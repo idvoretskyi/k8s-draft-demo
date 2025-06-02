@@ -108,8 +108,6 @@ securityContext:
       - SETFCAP
       - SYS_PTRACE
 
-envVars:
-  DEMO_MESSAGE: "Hello from local Kubernetes!"
-  DEMO_MODE: "true"
+envVars: {}
 
 generatorLabel: draft
