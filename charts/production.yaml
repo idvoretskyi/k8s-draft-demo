@@ -1,0 +1,8 @@
+image:
+  repository: "k8s-draft-demo"
+  tag: "latest"
+  pullPolicy: "Always"
+service:
+  annotations: {}
+  type: LoadBalancer
+  port: "80"
