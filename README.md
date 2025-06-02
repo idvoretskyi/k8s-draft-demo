@@ -6,7 +6,7 @@ This project demonstrates running a Python app on your local Kubernetes cluster 
 - [Docker](https://www.docker.com/)
 - [Minikube](https://minikube.sigs.k8s.io/docs/)
 - [Helm](https://helm.sh/)
-- Python app files: `app.py` and `requirements.txt` (not included here)
+- Python app files: `app.py` and `requirements.txt`
 
 ## Steps
 
